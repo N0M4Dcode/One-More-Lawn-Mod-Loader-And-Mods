@@ -6,11 +6,11 @@ Community loader and optional display mods for the Windows Steam edition.
 
 [Downloads](https://github.com/N0M4Dcode/One-More-Lawn-Mod-Loader-And-Mods/releases) · [Install/uninstall guide](https://github.com/N0M4Dcode/One-More-Lawn-Mod-Loader-And-Mods/wiki/OML-Mod-Loader) · [Wiki](https://github.com/N0M4Dcode/One-More-Lawn-Mod-Loader-And-Mods/wiki)
 
-| Component | Version | Suggested release tag |
+| Component | Version |
 | --- | --- | --- |
-| OML Mod Loader | 0.2.0 alpha | loader-v0.2.0 |
-| Mower Display | 0.2.0 alpha | mower-display-v0.2.0 |
-| RC Controller Display | 0.1.0 alpha | rc-display-v0.1.0 |
+| OML Mod Loader | 0.2.0 alpha |
+| Mower Display | 0.2.0 alpha |
+| RC Controller Display | 0.1.0 alpha |
 
 Each component is distributed separately. Download the named ZIP from release Assets, not GitHub’s automatic source archives.
 
